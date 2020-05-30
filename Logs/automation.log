@@ -1,0 +1,124 @@
+[INFO ] 2020-05-25 22:38:09.915 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-25 22:38:11.167 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-25 22:38:11.932 [TestNG-tests-1] TC_LoginTest_001 - *************loginTest is passed*********************
+[INFO ] 2020-05-25 22:38:11.934 [TestNG-tests-1] TC_LoginTest_001 - ************Finished Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 10:49:56.858 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 10:49:58.774 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-26 10:50:00.857 [TestNG-tests-1] TC_LoginTest_001 - *************login test failed*********************
+[INFO ] 2020-05-26 10:52:19.099 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 10:52:20.763 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-26 10:52:22.740 [TestNG-tests-1] TC_LoginTest_001 - *************login test failed*********************
+[INFO ] 2020-05-26 10:58:58.787 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 10:59:00.351 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-26 10:59:02.236 [TestNG-tests-1] TC_LoginTest_001 - *************login test failed*********************
+[INFO ] 2020-05-26 11:00:42.870 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 11:00:44.800 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-26 11:00:46.321 [TestNG-tests-1] TC_LoginTest_001 - *************login test failed*********************
+[INFO ] 2020-05-26 11:03:21.288 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 11:03:22.735 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-26 11:03:24.880 [TestNG-tests-1] TC_LoginTest_001 - *************loginTest is passed*********************
+[INFO ] 2020-05-26 11:03:24.883 [TestNG-tests-1] TC_LoginTest_001 - ************Finished Tc_LoginTest_001*********************
+[INFO ] 2020-05-26 21:10:36.623 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:10:38.174 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:10:44.837 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 21:10:48.789 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:10:49.236 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:10:55.048 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 21:10:58.880 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:10:59.207 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:11:04.771 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 21:11:04.797 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:11:05.546 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:11:11.304 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 21:11:11.325 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:11:12.149 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:11:17.821 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 21:16:44.084 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:16:45.723 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:16:52.409 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 21:16:56.328 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:16:56.615 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:17:02.527 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 21:17:06.380 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:17:06.762 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:17:12.383 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 21:17:12.408 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:17:13.281 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:17:18.873 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 21:17:18.890 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 21:17:19.614 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 21:17:25.080 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Failed************* 
+[INFO ] 2020-05-26 23:36:20.983 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 23:36:22.487 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 23:36:29.549 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 23:36:33.449 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 23:36:33.872 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-26 23:36:39.734 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-26 23:36:43.545 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 23:36:43.911 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-26 23:36:49.875 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 23:36:50.670 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-26 23:36:56.474 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-26 23:36:57.274 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-27 13:29:04.787 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 13:29:06.274 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-27 13:29:12.553 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-27 13:29:16.226 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 13:29:16.476 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-27 13:29:22.028 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-27 13:29:25.841 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 13:29:26.372 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-27 13:30:10.297 [TestNG-tests-1] Dummy - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:30:11.394 [TestNG-tests-1] Dummy - *************Providing login details*********************
+[INFO ] 2020-05-27 13:31:44.916 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:34:57.492 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:36:53.463 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:39:01.368 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:41:44.405 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:45:38.008 [TestNG-tests-1] TC_AddCustomerTest_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:51:13.353 [TestNG-tests-1] Dummy - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:51:14.646 [TestNG-tests-1] Dummy - *************Providing login details*********************
+[INFO ] 2020-05-27 13:51:15.827 [TestNG-tests-1] Dummy - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-05-27 13:51:16.145 [TestNG-tests-1] Dummy - ***************  Providing customer details  *********** 
+[INFO ] 2020-05-27 13:51:20.612 [TestNG-tests-1] Dummy - ***************  Customer added succesfully *********** 
+[INFO ] 2020-05-27 13:51:20.614 [TestNG-tests-1] Dummy - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-05-27 13:53:33.272 [TestNG-tests-1] TC_AddCustomer_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:53:34.538 [TestNG-tests-1] TC_AddCustomer_003 - *************Providing login details*********************
+[INFO ] 2020-05-27 13:53:35.306 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-05-27 13:53:35.570 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-05-27 13:53:40.636 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-05-27 13:53:40.638 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-05-27 13:56:10.303 [TestNG-tests-1] TC_AddCustomer_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 13:56:11.742 [TestNG-tests-1] TC_AddCustomer_003 - *************Providing login details*********************
+[INFO ] 2020-05-27 13:56:12.798 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-05-27 13:56:13.056 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-05-27 13:56:17.375 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-05-27 13:56:17.377 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-05-27 16:22:54.555 [TestNG-tests-1] TC_AddCustomer_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 16:22:56.155 [TestNG-tests-1] TC_AddCustomer_003 - *************Providing login details*********************
+[INFO ] 2020-05-27 16:22:57.797 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-05-27 16:22:58.498 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-05-27 16:23:04.420 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-05-27 16:23:04.424 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-05-27 16:24:49.957 [TestNG-tests-1] TC_LoginTest_001 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 16:24:51.391 [TestNG-tests-1] TC_LoginTest_001 - *************Providing login details*********************
+[INFO ] 2020-05-27 16:24:53.582 [TestNG-tests-1] TC_LoginTest_001 - *************loginTest is passed*********************
+[INFO ] 2020-05-27 16:24:53.587 [TestNG-tests-1] TC_LoginTest_001 - ************Finished Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 16:25:01.431 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 16:25:02.674 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-27 16:25:09.321 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-27 16:25:13.165 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 16:25:13.552 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[WARN ] 2020-05-27 16:25:19.766 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed************* 
+[INFO ] 2020-05-27 16:25:23.624 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 16:25:23.957 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-27 16:25:30.005 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 16:25:30.869 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-27 16:25:36.363 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2020-05-27 16:25:37.188 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2020-05-27 16:25:48.998 [TestNG-tests-1] TC_AddCustomer_003 - *************Starting Tc_LoginTest_001*********************
+[INFO ] 2020-05-27 16:25:50.597 [TestNG-tests-1] TC_AddCustomer_003 - *************Providing login details*********************
+[INFO ] 2020-05-27 16:25:52.404 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-05-27 16:25:52.719 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-05-27 16:25:58.426 [TestNG-tests-1] TC_AddCustomer_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-05-27 16:25:58.427 [TestNG-tests-1] TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 

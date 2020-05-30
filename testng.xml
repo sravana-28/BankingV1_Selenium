@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="netbanking" parallel="tests" thread-count="2" >
+  
+  <listeners>
+  <listener class-name="com.netbanking.utilities.ExtentReportManager"/>  
+  </listeners>
+  
+  <test  name="ChromeTest">  
+  <parameter name="browser" value="chrome"/>
+    <classes>
+       <class name="com.netbanking.testcases.TC_LoginTest_001"/>
+    <!--<class name="com.netbanking.testcases.TC_LoginDDT_002"/>-->    
+      <class name="com.netbanking.testcases.TC_AddCustomer_003"/>
+      
+    </classes>
+  </test> 
+  
+  <!--<test  name="firefoxTest">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.netbanking.testcases.TC_LoginTest_001"/>
+      <class name="com.netbanking.testcases.TC_AddCustomerTest_003"/>
+      
+    </classes>
+  </test>--> 
+  <!--<test  name="edgeTest">
+  <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="com.netbanking.testcases.TC_LoginTest_001"/>
+      
+    </classes>
+  </test>-->  
+ <!--<test  name="ieTest">
+  <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.netbanking.testcases.TC_LoginTest_001"/>
+      
+    </classes>
+  </test>--> 
+</suite> <!-- Suite -->
